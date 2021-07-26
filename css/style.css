@@ -1,0 +1,22 @@
+.panda-slider-bg{
+    background: #fceae8;
+}
+.panda-cat-color-1{
+    background: #ffa500;
+}
+.panda-cat-color-2{
+    background: #da70d6;
+}
+.panda-cat-color-3{
+    background: #0000ff;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img{
+    width: 100px;
+}
